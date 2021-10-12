@@ -160,6 +160,20 @@ const users = [
     veryficationCode: "WWTY2097",
     fileUrl: "herman@vanbolhuis.eu.zip",
   },
+  {
+    firstName: "Jordy",
+    lastName: "-",
+    email: "jordy@3dmakerszone.com",
+    veryficationCode: "DRWA7622",
+    fileUrl: "jordy@3dmakerszone.com.zip",
+  },
+  {
+    firstName: "Stephan",
+    lastName: "Jongmans",
+    email: "stephanjongmans@hotmail.com",
+    veryficationCode: "DRWA7622",
+    fileUrl: "stephanjongmans@hotmail.com.zip",
+  },
 ];
 
 module.exports = {
