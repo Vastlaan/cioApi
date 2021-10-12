@@ -171,7 +171,7 @@ const users = [
     firstName: "Stephan",
     lastName: "Jongmans",
     email: "stephanjongmans@hotmail.com",
-    veryficationCode: "DRWA7622",
+    veryficationCode: "OKAT3309",
     fileUrl: "stephanjongmans@hotmail.com.zip",
   },
 ];
