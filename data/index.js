@@ -174,6 +174,55 @@ const users = [
     veryficationCode: "OKAT3309",
     fileUrl: "stephanjongmans@hotmail.com.zip",
   },
+  {
+    firstName: "Trevor",
+    lastName: "Geraghty",
+    email: "hello@outlawgroup.co.uk",
+    veryficationCode: "JJYT0109",
+    fileUrl: "hello@outlawgroup.co.uk.zip",
+  },
+  {
+    firstName: "Stephen",
+    lastName: "Franklyn",
+    email: "stephen.franklyn@lithiumsystems.co.uk",
+    veryficationCode: "TXYT0709",
+    fileUrl: "stephen.franklyn@lithiumsystems.co.uk.zip",
+  },
+  {
+    firstName: "Natalie",
+    lastName: "Casey",
+    email: "40536590@live.napier.ac.uk",
+    veryficationCode: "OZUM3701",
+    fileUrl: "40536590@live.napier.ac.uk.zip",
+  },
+  {
+    firstName: "Matthew",
+    lastName: "Thomson",
+    email: "40488949@live.napier.ac.uk",
+    veryficationCode: "NVMZ0119",
+    fileUrl: "40488949@live.napier.ac.uk.zip",
+  },
+  {
+    firstName: "Kathryn",
+    lastName: "McMullan",
+    email: "kathryn.mcmullan@barriernetworks.com",
+    veryficationCode: "GGTW8621",
+    fileUrl: "kathryn.mcmullan@barriernetworks.com.zip",
+  },
+  {
+    firstName: "Christopher",
+    lastName: "Small",
+    email: "christophersmall@re-tek.co.uk",
+    veryficationCode: "CCVQ0092",
+    fileUrl: "christophersmall@re-tek.co.uk.zip",
+  },
+  {
+    firstName: "Lauren",
+    lastName: "McPerson",
+    email: "lauren.mcpherson",
+    veryficationCode: "QVBB9999",
+    fileUrl: "lauren.mcpherson.zip",
+  },
 ];
 
 module.exports = {
